@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jis G Jacob</h1>
+<h1 align="center">Hi , I'm Jis G Jacob👋</h1>
 <h3 align="center">A passionate learning noob developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=studiokeys&label=Profile%20views&color=0e75b6&style=flat" alt="studiokeys" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=studiokeys&label=Profile%20views&color=0e75b6&style=flat" alt="studiokeys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiokeys" alt="studiokeys" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
+<p align="center"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
 
 - 🔭 I’m currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
