@@ -6,11 +6,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiokeys" alt="studiokeys" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
-<p align="center">[![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/StudioKeys)<br>
+
 
 - 🔭 I’m currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
 - 📝 I often write articles on [https://agamsblog.xyz/author-jis-g-jacob](https://agamsblog.xyz/author-jis-g-jacob)
+
+- 📝 Some more socials you can use to connect with me **studiokeys.bio.link**
 
 - 📫 How to reach me **studiokeys@proton.me**
 
