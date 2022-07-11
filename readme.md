@@ -12,7 +12,7 @@
 
 - 📝 I often write articles on [https://agamsblog.xyz/author-jis-g-jacob](https://agamsblog.xyz/author-jis-g-jacob)
 
-- 📝 Some more socials you can use to connect with me **studiokeys.bio.link**
+- 📝 Some more socials you can use to connect with me [Here](https://studiokeys.bio.link)
 
 - 📫 How to reach me **studiokeys@proton.me**
 
