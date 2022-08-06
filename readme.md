@@ -10,11 +10,9 @@
 
 - 🔭 I’m currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
-- 📝 I often write articles on [https://agamsblog.xyz/author-jis-g-jacob](https://agamsblog.xyz/author-jis-g-jacob)
-
 - 📝 Some more socials you can use to connect with me [Here](https://studiokeys.bio.link)
 
-- 📫 How to reach me **studiokeys@proton.me**
+- 📫 How to reach me [Here](mailto:studiokeys@proton.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
