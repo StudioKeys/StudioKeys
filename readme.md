@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
+- 📲 I also maintain [VoltageOS](https://github.com/VoltageOS) unofficially for my device with help of some of my friends.
+
 - 📝 Some more socials you can use to connect with me [Here](https://studiokeys.bio.link)
 
 - 📫 How to reach me [Here](mailto:studiokeys@proton.me)
