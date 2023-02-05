@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jis G Jacob👋</h1>
-<h3 align="center">A unskilled developer from India</h3>
+<h3 align="center">A passionate lesrning noob developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=studiokeys&label=Profile%20views&color=0e75b6&style=flat" alt="studiokeys" /> </p>
 
@@ -8,9 +8,9 @@
 <p align="center"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
 
 
-- 🔭 I was currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
+- 🔭 I'm currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
-- 📲 I also did maintain [VoltageOS](https://github.com/VoltageOS) officially for my device with help of some of my friends.
+- 📲 I also maintain [VoltageOS](https://github.com/VoltageOS) officially for my devices with help of some of my friends.
 
 - 📝 Some more socials you can use to connect with me [Here](https://studiokeys.bio.link)
 
