@@ -16,14 +16,6 @@
 
 - 📫 How to reach me [Here](mailto:studiokeys@proton.me)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/studiokeyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studiokeyss" height="30" width="40" /></a>
-<a href="https://instagram.com/studiokeys_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="studiokeys_" height="30" width="40" /></a>
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=studiokeys&theme=rogue" alt="studiokeys" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studiokeys&show_icons=true&theme=dark&locale=en&layout=compact" alt="studiokeys" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=studiokeys&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="studiokeys" /></p>
