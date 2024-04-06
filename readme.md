@@ -19,10 +19,6 @@
 <p align="center"><a href="https://sourceforge.net/projects/blissroms/files/latest/download"><img alt="Download BlissROMs" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>
 <p align="center"> <a href="https://sourceforge.net/projects/blissroms/files/latest/download"><img src="https://img.shields.io/sourceforge/dt/blissroms.svg" alt="BlissROMs" /></a></p>
 
-<h3 align="center"> ApolloOS </h3>
-<p align="center"><a href="https://sourceforge.net/projects/apolloos/files/latest/download"><img alt="Download ApolloOS" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>
-<p align="center"> <a href="https://sourceforge.net/projects/apolloos/files/latest/download"><img src="https://img.shields.io/sourceforge/dt/apolloos.svg" alt="ApolloOS" /></a>  </p>
-
 <h4 align="center"> My Stats on Github </h4>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studiokeys&show_icons=true&theme=dark&locale=en&layout=compact" alt="studiokeys" /></p>
 
