@@ -7,10 +7,6 @@
 
 <p align="center"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
 
-- 🔭 I'm currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
-
-- 📲 I also maintain [VoltageOS](https://github.com/VoltageOS) officially for my devices with help of some of my friends.
-
 - 📝 Some more socials you can use to connect with me [Here](https://studiokeys.bio.link)
 
 - 📫 How to reach me [Here](mailto:studiokeys@proton.me)
