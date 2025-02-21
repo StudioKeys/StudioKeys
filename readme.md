@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studiokeys" alt="studiokeys" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/studiokeyss" target="blank"><img src="https://img.shields.io/twitter/follow/studiokeyss?logo=twitter&style=for-the-badge" alt="studiokeyss" /></a> </p>
-
 - 🔭 I'm currently working with some of my friends on [BlissROMs](https://github.com/BlissRoms)
 
 - 📲 I also maintain [VoltageOS](https://github.com/VoltageOS) officially for my devices with help of some of my friends.
@@ -25,3 +23,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=studiokeys&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="studiokeys" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studiokeys&theme=dark" alt="studiokeys" /></p>
+
+<h3 align="left"> Currently what i'm listening </h3>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true)
