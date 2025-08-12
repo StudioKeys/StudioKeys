@@ -24,6 +24,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studiokeys&theme=dark" alt="studiokeys" /></p>
 
-<h3 align="left"> Currently what i'm listening </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true)
+<h2 align="left"> Currently what i'm listening </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true)
