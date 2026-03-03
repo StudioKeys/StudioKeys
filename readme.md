@@ -123,9 +123,13 @@ Open to collaborations and ideas 🤝
 
 ---
 
-## 🏆 Contribution Graph
+## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StudioKeys&theme=react-dark&hide_border=true)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StudioKeys&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -141,9 +145,13 @@ Open to collaborations and ideas 🤝
 
 <div align="center">
 
-### 🎵 Currently Listening
+<h3 align="center">🎵 Currently Listening</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark" alt="Spotify Now Playing" width="300" />
+  </a>
+</p>
 
 </div>
 
