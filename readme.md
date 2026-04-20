@@ -2,8 +2,8 @@
 
 # 💫 About Me
 
-Backend Developer & Open-Source AOSP Developer
-Co-Lead Developer at **BlissRoms** · ex-**VoltageOS** Maintainer & Member
+Backend Developer & Open-Source AOSP Developer <br>
+Co-Lead Developer at **BlissRoms** · ex-**VoltageOS** Maintainer & Member <br>
 Open to collaborations and ideas 🤝
 
 </div>
