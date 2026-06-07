@@ -115,11 +115,11 @@ Open to collaborations and ideas 🤝
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=StudioKeys&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=StudioKeys&theme=aura&hide_border=false)
+![](https://streak-stats.demolab.com/?user=StudioKeys&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudioKeys&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
