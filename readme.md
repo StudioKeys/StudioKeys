@@ -151,7 +151,7 @@ Open to collaborations and ideas 🤝
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark" alt="Spotify Now Playing" width="300" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
   </a>
 </p>
 
