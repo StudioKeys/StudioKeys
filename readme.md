@@ -125,11 +125,11 @@ Open to collaborations and ideas 🤝
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Trophies
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StudioKeys&theme=react-dark&hide_border=true&area=true)
+![Trophies](https://github-trophies.vercel.app/?username=StudioKeys&theme=dark_lover&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
 
 </div>
 
