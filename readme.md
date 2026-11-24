@@ -3,7 +3,7 @@
 # About Me
 
 Software Engineer & Open-Source AOSP Developer <br>
-Co-Lead Developer at **BlissRoms** · Platform Developer & Device Maintainer (OnePlus Pad 4) at **LineageOS** · ex-**VoltageOS** Maintainer <br>
+Co-Lead Developer at **BlissRoms** · Platform Developer & Device Maintainer for `iceland` at **LineageOS** · ex-**VoltageOS** Maintainer <br>
 Open to collaborations and ideas
 
 </div>
