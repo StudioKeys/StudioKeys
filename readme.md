@@ -1,16 +1,34 @@
 <div align="center">
 
-# 💫 About Me
+# About Me
 
-Backend Developer & Open-Source AOSP Developer <br>
-Co-Lead Developer at **BlissRoms** · ex-**VoltageOS** Maintainer & Member · Platform Developer at **LineageOS** <br>
-Open to collaborations and ideas 🤝
+Software Engineer & Open-Source AOSP Developer <br>
+Co-Lead Developer at **BlissRoms** · Platform Developer & Device Maintainer (OnePlus Pad 4) at **LineageOS** · ex-**VoltageOS** Maintainer <br>
+Open to collaborations and ideas
 
 </div>
 
 ---
 
-## 🌐 Socials
+## Featured Work
+
+| Project | What it is |
+| --- | --- |
+| [**LineageOS · OnePlus Pad 4 (`iceland`)**](https://github.com/LineageOS/android_device_oneplus_iceland) | Device tree for the OnePlus Pad 4, which I maintain in official LineageOS. |
+| [**Quietbar**](https://github.com/StudioKeys/Quietbar) | Open-source macOS menu bar app that controls your headphones over Bluetooth: noise control, EQ, spatial sound, battery and more. |
+| [**BlissRoms · platform_frameworks_base**](https://github.com/BlissRoms/platform_frameworks_base) | Framework-level changes for BlissRoms, where I'm co-lead developer. |
+
+---
+
+## What I Work On
+
+- **Platform:** AOSP, LineageOS, device bring-up, kernels, framework and Settings changes
+- **Backend:** Java and Spring Boot services
+- **Apps:** Swift/macOS and Android
+
+---
+
+## Socials
 
 <div align="center">
 
@@ -23,7 +41,7 @@ Open to collaborations and ideas 🤝
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -39,7 +57,7 @@ Open to collaborations and ideas 🤝
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 **Frameworks & Libraries**
@@ -111,35 +129,15 @@ Open to collaborations and ideas 🤝
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![StudioKeys GitHub stats](https://github-readme-stats.shion.dev/api?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=StudioKeys&theme=dark&hide_border=false)
+![StudioKeys contribution streak](https://streak-stats.demolab.com/?user=StudioKeys&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 📈 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-trophies.vercel.app/?username=StudioKeys&theme=dark_lover&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![StudioKeys top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=StudioKeys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -147,11 +145,11 @@ Open to collaborations and ideas 🤝
 
 <div align="center">
 
-<h3 align="center">🎵 Currently Listening</h3>
+<h3 align="center">Currently Listening</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=keybiz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Currently listening on Spotify">
   </a>
 </p>
 
@@ -161,14 +159,11 @@ Open to collaborations and ideas 🤝
 
 <div align="center">
 
-### 💰 Support My Work
+### Support My Work
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/studiokeys)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/studiokeys)
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/studiokeys) 
-
-[![](https://komarev.com/ghpvc/?username=StudioKeys)](https://komarev.com/sources/github-profile-views-counter)
+#StayBlissful
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
